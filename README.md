@@ -1,4 +1,4 @@
-# Rent A Tool
+ # Rent A Tool
 A secure Android application for tool renting, registration, and dashboard management.
 
 ## About the App
