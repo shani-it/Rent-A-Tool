@@ -2,7 +2,7 @@
 A secure Android application for tool renting, registration, and dashboard management.
 
 ## About the App
-Rent A Tool is a mobile application designed to solve the problem of temporary tool accessibility for students and professionals. It allows users to list their underutilized tools for rent or browse and rent required equipment locally. The application provides a user-friendly interface to manage listings, handle secure user authentication, and optimize tool tracking, making resource sharing efficient and cost-effective.
+Rent A Tool is a mobile application designed to solve the problem of temporary tool accessibility for  professionals. It allows users to list their underutilized tools for rent or browse and rent required equipment locally. The application provides a user-friendly interface to manage listings, handle secure user authentication, and optimize tool tracking, making resource sharing efficient and cost-effective.
 
 ## App Screenshots
 Here are the visual screens of the application interface:[cite: 1]
